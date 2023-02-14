@@ -1,0 +1,49 @@
+body{
+    background-color: #E6FDFF;
+}
+
+#titulo{
+    font-family:Georgia, 'Times New Roman', Times, serif ; 
+}
+
+#minha-foto{
+    width: 260px;
+    height: 250px;
+    border-radius: 275%;
+}
+
+#primeiro-p{
+    position: absolute; top: 80px; left: 350px;
+}
+
+#div-h2{
+    position: absolute; top: 150px; left: 350px;
+}
+
+#barra{
+    position: absolute; top: 200px; left: 570px;
+}
+
+#div-lista{
+    position: absolute; top: 150px; left: 600px;
+}
+.A{
+    text-decoration: none;
+    display: inline-block;
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+   border-radius: 60px;
+   border: solid;
+    
+}
+
+
+
+
+
+
+
+
