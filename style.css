@@ -4,6 +4,11 @@ body{
 
 #titulo{
     font-family:Georgia, 'Times New Roman', Times, serif ; 
+    text-align: center;
+}
+
+#primeira-div{
+    display: inline-block;
 }
 
 #minha-foto{
@@ -31,15 +36,36 @@ body{
     text-decoration: none;
     display: inline-block;
     background-color: white;
-    padding: 20px;
+    padding: 10px;
     margin: 10px;
     text-decoration: none;
     color: black;
    border-radius: 60px;
-   border: solid;
+   border: solid 3px;
     
 }
 
+#minha-lista{
+    display: inline-block;
+    margin-left: 800px;
+    position: absolute;
+   
+   
+}
+
+#movimentar{
+    width: 170px;
+    font-size: 13px;
+    padding-left: 30px;
+    
+
+}
+
+.A:hover{
+    background-color: aqua;
+    font-size: 30px;
+    transition: 0.3s;
+}
 
 
 
