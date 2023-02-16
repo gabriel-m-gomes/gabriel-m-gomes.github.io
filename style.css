@@ -7,14 +7,10 @@ body{
     text-align: center;
 }
 
-#primeira-div{
-    display: inline-block;
-}
-
 #minha-foto{
-    width: 260px;
+    width: 250px;
     height: 250px;
-    border-radius: 275%;
+    border-radius: 100%;
 }
 
 #primeiro-p{
@@ -24,6 +20,7 @@ body{
 #div-h2{
     position: absolute; top: 150px; left: 350px;
 }
+
 
 #barra{
     position: absolute; top: 200px; left: 570px;
@@ -40,31 +37,32 @@ body{
     margin: 10px;
     text-decoration: none;
     color: black;
-   border-radius: 60px;
-   border: solid 3px;
-    
+    border-radius: 60px;
+    border: solid 3px;
 }
 
-#minha-lista{
+#barra-lateral ul li{
     display: inline-block;
-    margin-left: 800px;
-    position: absolute;
-   
-   
-}
-
-#movimentar{
-    width: 170px;
-    font-size: 13px;
-    padding-left: 30px;
     
-
 }
+
+#barra-lateral ul{
+    display: inline-block;
+    margin-right: 600px;
+}
+
+
 
 .A:hover{
     background-color: aqua;
-    font-size: 30px;
-    transition: 0.3s;
+    font-size: 18px;
+    transition: 1s;
+}
+
+
+#rodape{
+    border-top: solid 1px black;
+    text-align: center;
 }
 
 
