@@ -225,9 +225,9 @@ body{
 .contact {
     display: flex;
     justify-content: center;
-    margin-top: 40px; /* Adicione espaço acima dos ícones (opcional) */
-    margin-bottom: 40px; /* Adicione espaço abaixo dos ícones */
-    padding-bottom: 50px; /* Adicione um preenchimento inferior para criar espaço */
+    margin-top: 40px; 
+    margin-bottom: 50px; 
+    padding-bottom: 50px; 
 }
 
 
